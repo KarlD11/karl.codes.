@@ -17,7 +17,7 @@ export const Home = () => {
             <ThemeToggle />
 
             {/* Particle Background */}
-            <ParticleBackground />
+            {/* <ParticleBackground /> */}
 
             {/* Navigation Bar */}
             <Navbar />
