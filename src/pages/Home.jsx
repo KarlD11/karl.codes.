@@ -12,7 +12,7 @@ import { FooterSection } from '../sections/FooterSection';
 
 export const Home = () => {
     return (
-        <div className="min-h-screen bf-background text-foreground overflow-hidden">
+        <div className="min-h-screen bg-background text-foreground overflow-hidden">
             {/* Toggle Light/Darl */}
             <ThemeToggle />
 

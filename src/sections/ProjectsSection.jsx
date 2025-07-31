@@ -9,8 +9,8 @@ const projects = [
         description: "A cool landing page for a coding blog",
         image: "/projects/project-1.png",
         tags: ["Express", "Node.js", "HTML/CSS", "Bootstrap"],
-        demoUrl: "#",
-        githubUrl: "#"
+        demoUrl: "https://coders-blog-silk.vercel.app/",
+        githubUrl: "https://github.com/KarlD11/coders-blog"
     },
 
     {
@@ -19,8 +19,8 @@ const projects = [
         description: "A beautiful website allowing users to create a to do list",
         image: "/projects/project-2.png",
         tags: ["HTML/CSS", "Javascript"], 
-        demoUrl: "#",
-        githubUrl: "#",
+        demoUrl: "https://karlstodo.vercel.app/",
+        githubUrl: "https://github.com/KarlD11/karlstodo",
     },
 ];
 
